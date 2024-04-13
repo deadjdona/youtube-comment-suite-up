@@ -1,12 +1,10 @@
 # <img src="https://i.imgur.com/Uw2CJ7v.png" width="466" height="64" />
 
-![Github All Releases](https://img.shields.io/github/downloads/mattwright324/youtube-comment-suite/total.svg?style=flat-square)
-![GitHub release](https://img.shields.io/github/release/mattwright324/youtube-comment-suite.svg?style=flat-square)
-![Github Releases](https://img.shields.io/github/downloads/mattwright324/youtube-comment-suite/latest/total.svg?style=flat-square)
+![Github All Releases](https://img.shields.io/github/downloads/deadjdona/youtube-comment-suite-up/total.svg?style=flat-square)
+![GitHub Release](https://img.shields.io/github/release/deadjdona/youtube-comment-suite-up.svg?style=flat-square)
+![Github Releases](https://img.shields.io/github/downloads/deadjdona/youtube-comment-suite-up/latest/total.svg?style=flat-square)
 
-YouTube Comment Suite lets you aggregate YouTube comments from numerous videos, playlists, and channels for archiving,
-general search, and showing activity. Achieve the functionality of the *Community > Comments* tool that is provided to
-YouTube creators and more.
+YouTube Comment Suite Updated lets you aggregate YouTube comments from numerous videos, playlists, and channels for archiving, general search, and showing activity. Achieve the functionality of the *Community > Comments* tool that is provided to YouTube creators and more.
 
 ![Examples](https://i.imgur.com/s742FqW.png)
 
@@ -17,7 +15,7 @@ YouTube creators and more.
 
 ## Features
 
-* Cross-platform using Java 8 and JavaFX
+* Cross-platform using Java 8 and JavaFX.
 * Include multiple channels, playlists, and videos in a single group.
 * Search for comments by video, type, username, keyword, length, and date.
 * Export search results to handier and more consumable CSV or JSON formats.
@@ -29,22 +27,20 @@ YouTube creators and more.
 
 ## Install
 
-[![GitHub Releases](https://img.shields.io/badge/downloads-releases-brightgreen.svg?maxAge=60&style=flat-square)](https://github.com/mattwright324/youtube-comment-suite/releases)
+[![GitHub Releases](https://img.shields.io/badge/downloads-releases-brightgreen.svg?maxAge=60&style=flat-square)](https://github.com/deadjdona/youtube-comment-suite-up/releases)
 
 ### Windows
 
 Extract the latest release zip file and run `youtube-comment-suite-#.#.#.jar`.
 
-* Be sure that you have Java 8 installed, if not you can get it
-  [here from Oracle](https://www.java.com/en/download/).
-* If you want to use Java 11 or higher, there is a workaround in the wiki here:
-  [Installation - Java 11+](https://github.com/mattwright324/youtube-comment-suite/wiki/Installation---Java-11)
+* Be sure that you have Java 8 installed, if not you can [[get it here from Oracle](https://www.java.com/en/download/).
+* If you want to use Java 11 or higher, there is a workaround in the wiki here: [Installation on Java 11+](https://github.com/deadjdona/youtube-comment-suite-up/wiki/Installation---Java-11)
 
 ### Linux / Ubuntu
 
 Instructions on how to get this running in Ubuntu 16, 17, 18, 19, or 20 can be found in the wiki here:
 
-* [Installation - Ubuntu 16 17 18 19 20](https://github.com/mattwright324/youtube-comment-suite/wiki/Installation---Ubuntu-16-17-18-19-20)
+* [Installation - Ubuntu 16 17 18 19 20](https://github.com/deadjdona/youtube-comment-suite-up/wiki/Installation---Ubuntu-16-17-18-19-20)
 
 ### Extracting the zip
 
@@ -54,16 +50,12 @@ Simply extracting all zip contents to a folder will do this.
 
 ## Getting Started
 
-Want to know more about how to use this
-program? [Check out the Wiki!](https://github.com/mattwright324/youtube-comment-suite/wiki/Overview-of-the-interface)
+Want to know more about how to use this program? [Check out the Wiki!](https://github.com/deadjdona/youtube-comment-suite-up/wiki/Overview-of-the-interface)
 
 ## Building
 
-Refer to [BUILD.md](https://github.com/mattwright324/youtube-comment-suite/blob/master/BUILD.md)
-for instructions on how to build and run from source.
+Refer to [BUILD.md](https://github.com/deadjdona/youtube-comment-suite-up/blob/master/BUILD.md) for instructions on how to build and run from source.
 
-## Contributing
+# Contributing
 
-Contributions are welcome, refer
-to [CONTRIBUTING.md](https://github.com/mattwright324/youtube-comment-suite/blob/master/CONTRIBUTING.md)
-for more detail.
+Contributions are welcome, refer to [CONTRIBUTING.md](https://github.com/mattwright324/youtube-comment-suite/blob/master/CONTRIBUTING.md) for more details.
