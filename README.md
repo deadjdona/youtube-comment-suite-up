@@ -1,8 +1,7 @@
 # <img src="https://i.imgur.com/Uw2CJ7v.png" width="466" height="64" />
 
-![Github All Releases](https://img.shields.io/github/downloads/deadjdona/youtube-comment-suite-up/total.svg?style=flat-square)
-![GitHub Release](https://img.shields.io/github/release/deadjdona/youtube-comment-suite-up.svg?style=flat-square)
-![Github Releases](https://img.shields.io/github/downloads/deadjdona/youtube-comment-suite-up/latest/total.svg?style=flat-square)
+![GitHub Release](https://img.shields.io/github/v/release/deadjdona/youtube-comment-suite-up?include_prereleases&sort=date&display_name=release&style=plastic)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/deadjdona/youtube-comment-suite-up/latest)
 
 YouTube Comment Suite Updated lets you aggregate YouTube comments from numerous videos, playlists, and channels for archiving, general search, and showing activity. Achieve the functionality of the *Community > Comments* tool that is provided to YouTube creators and more.
 
@@ -24,6 +23,10 @@ YouTube Comment Suite Updated lets you aggregate YouTube comments from numerous 
 * Option to save thumbnails and profiles for archival and offline viewing.
 * Sign in to multiple YouTube accounts and choose which to reply with.
 * View video context when selecting a comment.
+
+## What's new
+
+* Updated dependencies to latest versions.
 
 ## Install
 
@@ -59,3 +62,6 @@ Refer to [BUILD.md](https://github.com/deadjdona/youtube-comment-suite-up/blob/m
 # Contributing
 
 Contributions are welcome, refer to [CONTRIBUTING.md](https://github.com/mattwright324/youtube-comment-suite/blob/master/CONTRIBUTING.md) for more details.
+
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/deadjdona/youtube-comment-suite-up/latest?include_prereleases&label=Original%20repo%20commits)
+
